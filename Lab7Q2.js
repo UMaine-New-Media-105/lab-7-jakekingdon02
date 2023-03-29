@@ -1,7 +1,8 @@
 // Jake Kingdon
 // Lab 7 Question 1
 // March 29th, 2023
-// I Created a sketch that uses circles to draw a grid of 5 by 5 shapes, with gradients and nested loops applied.
+// I Created a sketch that uses circles to draw a grid of 5 by 5 shapes, with gradients and nested loops applied. Also, I used the position map 
+// function to specify the gradient colors.
 
 function setup() {
   createCanvas(500, 500);
